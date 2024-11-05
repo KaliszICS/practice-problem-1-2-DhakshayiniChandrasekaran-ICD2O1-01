@@ -7,7 +7,7 @@ Dhakshayini Chandrasekaran
 
 def q1():
     #Write Assignment code here
-    name = alex
+    name = "Alex"
     print(name)
 
 def q2():
